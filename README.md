@@ -6,14 +6,6 @@ A full-stack Plinko game with a commit-reveal fairness protocol, deterministic s
 
 ---
 
-## Live Links
-
-- **App:** [https://plinko-lab.vercel.app](https://plinko-lab.vercel.app)
-- **Verifier:** [https://plinko-lab.vercel.app/verify](https://plinko-lab.vercel.app/verify)
-- **History:** [https://plinko-lab.vercel.app/history](https://plinko-lab.vercel.app/history)
-
----
-
 ## Quick Start
 
 ```bash
