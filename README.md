@@ -5,6 +5,19 @@ A full-stack Plinko game with a commit-reveal fairness protocol, deterministic s
 **Built for:** Daphnis Labs Full-Stack Developer Intern Assignment
 
 ---
+# 🎯 Plinko Lab — Provably Fair
+
+A full-stack Plinko game with a commit-reveal fairness protocol, deterministic seed-replayable outcomes, polished UI, and a public verifier page.
+
+**Built for:** Daphnis Labs Full-Stack Developer Intern Assignment
+
+## Live Links
+
+- App: https://daphnis-labs-assignment-9g6g.vercel.app
+- Verifier: https://daphnis-labs-assignment-9g6g.vercel.app/verify
+- History: https://daphnis-labs-assignment-9g6g.vercel.app/history
+
+---
 
 ## Quick Start
 
