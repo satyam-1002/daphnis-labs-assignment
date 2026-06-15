@@ -2,7 +2,7 @@
 
 A full-stack Plinko game with a commit-reveal fairness protocol, deterministic seed-replayable outcomes, polished UI, and a public verifier page.
 
-**Built for:** Daphnis Labs Full-Stack Developer Intern Assignment
+Built with Next.js, TypeScript, Prisma, and PostgreSQL to demonstrate modern full-stack web development and system design.
 
 ---
 
