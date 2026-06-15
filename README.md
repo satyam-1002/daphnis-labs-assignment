@@ -258,25 +258,6 @@ Tests verify:
 
 ---
 
-## AI Usage
-
-AI (Claude Sonnet) was used extensively throughout this project:
-
-1. **Architecture planning** — Mapping requirements to Next.js app structure
-2. **xorshift32 implementation** — Prompted for a clean TypeScript implementation, then verified manually against test vectors
-3. **Canvas animation** — The ball animation and peg rendering logic was drafted with AI, then refined for performance
-4. **API route structure** — Boilerplate for Next.js route handlers
-5. **Tailwind styling** — Color palette and glassmorphism effects
-6. **Test cases** — Generated test structure, added edge cases manually
-
-**What I reviewed and changed:**
-- Verified all cryptographic functions produce bit-exact outputs matching test vectors
-- Manually traced the xorshift32 PRNG to confirm seed extraction logic
-- Confirmed PRNG usage order (peg map first, then row decisions) matches spec
-- Validated payout multiplier symmetry
-
----
-
 ## Time Log
 
 | Phase | Time |
