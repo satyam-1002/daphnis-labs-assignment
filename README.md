@@ -258,36 +258,6 @@ Tests verify:
 
 ---
 
-## Time Log
-
-| Phase | Time |
-|---|---|
-| Reading requirements, planning | 30 min |
-| Core crypto + PRNG + engine | 1.5 hr |
-| Tests (all 18 passing) | 45 min |
-| API routes (commit/start/reveal/verify) | 1 hr |
-| Prisma schema + DB setup | 30 min |
-| Game UI + canvas board | 2 hr |
-| Verifier page | 45 min |
-| History page + CSV export | 30 min |
-| Easter eggs + polish | 45 min |
-| README | 30 min |
-| **Total** | **~8.5 hr** |
-
----
-
-## What I'd Do Next
-
-1. **True physics** — Matter.js fixed-timestep physics for visually accurate collisions
-2. **WebSocket realtime** — Live session log, multiplayer spectating
-3. **Row-1 animation fix** — Smoother ball path interpolation through pegs
-4. **Mobile gestures** — Swipe left/right to change drop column
-5. **Sound pack** — Proper recorded SFX instead of Web Audio API tones
-6. **Rate limiting** — Prevent API abuse
-7. **Better client seed UX** — Entropy indicator, suggested phrases
-
----
-
 ## Payout Table
 
 | Bin | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
