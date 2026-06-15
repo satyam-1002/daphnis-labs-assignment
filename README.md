@@ -319,4 +319,4 @@ Symmetric around center. Edge bins pay highest, center pays lowest — mirrors r
 
 ## License
 
-MIT — Built as an engineering assignment. Assets are generated/original.
+MIT — Built as a full-stack web application demonstrating frontend, backend, database, testing, and system design concepts.
